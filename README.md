@@ -1,2 +1,5 @@
-# tax-management-system
-Tax management and analytics solution built with Excel, Office Scripts, and TypeScript featuring automation, validation, reporting, dashboards, and audit logging.
+# Tax Management & Analysis System
+
+A portfolio project built with Excel, Office Scripts, and TypeScript.
+
+The solution automates tax calculations, validation, reporting, and dashboard generation while following enterprise-style design principles.
