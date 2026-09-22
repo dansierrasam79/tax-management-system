@@ -49,3 +49,8 @@ docs/dashboard2.png
 docs/reports1.png
 docs/reports2.png
 docs/reports3.png
+
+## Future enhancements
+Power Automate Integration
+Email Reporting
+Approval Workflows
