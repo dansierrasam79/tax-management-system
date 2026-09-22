@@ -42,7 +42,10 @@ Reports
 - Power Automate (future integration)
 
 ## Dashboard
-docs/dashboard.png
+docs/dashboard1.png
+docs/dashboard2.png
 
 ## Reports
-docs/reports.png
+docs/reports1.png
+docs/reports2.png
+docs/reports3.png
